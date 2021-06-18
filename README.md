@@ -36,6 +36,7 @@ Everything will be logged and you can watch what happens on the cmd
 | ------------------------------------ 	|
 removes all friend the user has
 ═══════════════════════════════════════════════
+
 |    [3] delete and leave all servers 		|
 | ------------------------------------ 	|
 Leaves and deletes all the server the user has
