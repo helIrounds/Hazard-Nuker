@@ -10,7 +10,9 @@ code ✅
 
 ### Features
 
-* ` Nuke a targetted account`                                               
+* ` Nuke a targetted account`
+* ` Easy and fast`
+* ` No proxies required `                                             
 * ` Unfriend all friends`                                                                                                                                                   
 * ` delete and leave all servers`                                                                                                                            
 * ` Spam Create New servers`
@@ -65,6 +67,9 @@ Disables the users token
 |    [9]: Exit 		|
 Exit the program
 
-####  use Hazard Nuker by your own risk, I do not take responsiblity for any of your actions.
+####  Use Hazard Nuker by your own risk, I do not take responsiblity for any of your actions.
+
+| 🌟Star this repository if it has helped you!|
+|----------------------------------------------|
 
 Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
