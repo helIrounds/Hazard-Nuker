@@ -65,4 +65,6 @@ Disables the users token
 |    [9]: Exit 		|
 Exit the program
 
+####All of these tools are used by your own risk, i do not take responsiblity for any of your actions.
+
 Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
