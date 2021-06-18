@@ -67,8 +67,6 @@ Disables the users token
 |    [9]: Exit 		|
 Exit the program
 
-####  Use Hazard Nuker by your own risk, I do not take responsiblity for any of your actions.
-
 | 🌟Star this repository if it has helped you!|
 |----------------------------------------------|
 
